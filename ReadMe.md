@@ -1,6 +1,17 @@
 # 💫 About Me:
 I'm Sudhir Yadav <br>FullStack Developer,<br>App Developer
 
+Experience
+
+Software Developer Intern
+Zidio
+🗓️ [3 Months]
+
+    Contributed to the development of web applications using modern JavaScript frameworks.
+
+    Assisted in building scalable backend APIs and integrating third-party services.
+
+    Participated in code reviews and daily standups, gaining hands-on Agile development experience.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudhiryadav5678/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sudhir-kumar-7a0164259) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/SudhirYadav5678) 
